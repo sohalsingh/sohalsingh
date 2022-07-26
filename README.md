@@ -1,1 +1,1 @@
-<p align="center"><a href="https://sohalsingh.github.io"><img width="80%" alt="Hello, I'm Sohal!" src="./assets/gh-readme-header.png" /></a></p>
+![Sohal's github stats](https://github-readme-stats.vercel.app/api?username=sohalsingh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
