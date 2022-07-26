@@ -7,6 +7,7 @@
 <a href="https://twitter.com/_sohal_singh_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 ---
 <a href="https://facebook.com/_sohal_singh_" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+---
 </div>
 
 <i>My Stats:</i><br>
