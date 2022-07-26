@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**sohalsingh/sohalsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
