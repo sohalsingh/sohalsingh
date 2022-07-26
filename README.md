@@ -7,7 +7,7 @@
 <a href="https://twitter.com/_sohal_singh_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 ---
 </div>
----
+
 <i>My Stats:</i><br>
 ---
 <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sohalsingh&theme=react&border=61dafb&hide_border=true" alt="sohalsingh" />
