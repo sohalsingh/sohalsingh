@@ -8,4 +8,4 @@
 ---
 </div>
 
-#My Stats
+<i>Follow me around the web:</i><br>
