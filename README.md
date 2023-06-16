@@ -14,7 +14,3 @@
 ---
 <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sohalsingh&theme=react&border=61dafb&hide_border=true" alt="sohalsingh" />
 
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohalsingh)](https://github.com/sohalsingh/github-readme-stats)
