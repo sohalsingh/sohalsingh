@@ -16,4 +16,4 @@
 ---
 <i>Rate:</i><br>
 ---
-![Sohal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohalsingh&show_icons=true&theme=dark)
+![Sohal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohalsingh&show_icons=true&theme=great-gatsby)
