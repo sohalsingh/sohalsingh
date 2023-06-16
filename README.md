@@ -14,6 +14,6 @@
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sohalsingh&theme=dark)](https://git.io/streak-stats)
 ---
-<i>My Stats:</i><br>
+<i>Rate:</i><br>
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
