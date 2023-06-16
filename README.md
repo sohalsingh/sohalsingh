@@ -14,6 +14,6 @@
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sohalsingh&theme=great-gatsby)](https://git.io/streak-stats)
 ---
-<i>Rate:</i><br>
+
 ---
 ![Sohal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohalsingh&show_icons=true&theme=great-gatsby)
