@@ -12,7 +12,7 @@
 
 <i>My Stats:</i><br>
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sohalsingh&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sohalsingh&theme=great-gatsby)](https://git.io/streak-stats)
 ---
 <i>Rate:</i><br>
 ---
