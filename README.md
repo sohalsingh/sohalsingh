@@ -10,8 +10,6 @@
 ---
 </div>
 
-[![sohalsingh's GitHub | Stats](https://stats.quine.sh/sohalsingh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sohalsingh)
-
 <i>My Stats:</i><br>
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sohalsingh&theme=great-gatsby)](https://git.io/streak-stats)
