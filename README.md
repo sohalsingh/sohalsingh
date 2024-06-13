@@ -1,3 +1,4 @@
+
 <i>Follow me around the web:</i><br>
 ---
 <a href="https://www.linkedin.com/in/sohal-singh-90a59227b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -16,4 +17,4 @@
 ---
 
 ---
-![Sohal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohalsingh&show_icons=true&theme=great-gatsby)
+[Sohal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohalsingh&show_icons=true&theme=great-gatsby)
