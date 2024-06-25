@@ -12,7 +12,7 @@
 </div>
 <i>My Stats:</i><br>
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sohalsingh&theme=great-gatsby)](https://git.io/streak-stats)
+![sohalsingh's Stats](https://github-readme-stats.vercel.app/api?username=sohalsingh&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ---
 ---
 ![Sohal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohalsingh&show_icons=true&theme=great-gatsby)
