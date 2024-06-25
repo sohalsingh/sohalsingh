@@ -15,4 +15,4 @@
 ![sohalsingh's Stats](https://github-readme-stats.vercel.app/api?username=sohalsingh&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ---
 ---
-![Sohal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohalsingh&show_icons=true&theme=great-gatsby)
+![sohalsingh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohalsingh&theme=dark&hide_border=false)
