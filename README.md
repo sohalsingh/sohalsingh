@@ -15,7 +15,7 @@
     </a>
   </p>
   <h3>My GitHub Stats:</h3>
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: space-around;">
     <div style="flex: 1; margin-right: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=sohalsingh&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
     </div>
@@ -23,7 +23,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohalsingh&theme=dark&hide_border=true" alt="GitHub Streak">
     </div>
   </div>
-  <div style="margin-top: 20px;">
+  <div style="margin-top: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohalsingh&theme=dark&layout=compact&hide_border=true" alt="Top Languages">
   </div>
 </div>
