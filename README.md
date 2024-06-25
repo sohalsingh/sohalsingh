@@ -30,7 +30,7 @@
 <div style="background-color: #0d1117; padding: 20px; text-align: center;">
   <img src="https://myreadme.vercel.app/api/embed/sohalsingh?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="max-width: 100%; filter: invert(1);">
 
-  <p style="color: #c9d1d9; font-style: italic; margin-top: 10px;">Stats powered by reimaginedreadme</p>
+  <p style="color: #c9d1d9; font-style: italic; margin-top: 10px;"></p>
 </div>
 
 
