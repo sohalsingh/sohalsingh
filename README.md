@@ -11,8 +11,8 @@
 ---
 </div>
 <i>My Stats:</i><br>
----
+
 ![sohalsingh's Stats](https://github-readme-stats.vercel.app/api?username=sohalsingh&theme=dark&show_icons=true&hide_border=false&count_private=true)
----
----
+
+
 ![sohalsingh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohalsingh&theme=dark&hide_border=false)
