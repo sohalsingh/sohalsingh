@@ -27,4 +27,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohalsingh&theme=dark&layout=compact&hide_border=true" alt="Top Languages">
   </div>
 </div>
-<img src="https://myreadme.vercel.app/api/embed/sohalsingh?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<div align="center">
+  <img src="https://myreadme.vercel.app/api/embed/sohalsingh?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="reimaginedreadme" style="max-width: 100%;">
+</div>
