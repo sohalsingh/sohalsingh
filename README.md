@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Follow me around the eb:</h3>
+  <h3>Follow me around the web:</h3>
   <p>
     <a href="https://www.linkedin.com/in/sohal-singh-90a59227b/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
